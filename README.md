@@ -6,6 +6,11 @@ For the discord bot check [this repo](https://github.com/begbaj/elle3-discord-bo
 I plan to develop various utilities for ELLE3 specification implementation in the future,
 but it requires a lot of time that I don't have right now.
 
+# WORK IN PROGRESS:
+everything that's written in this specification is to be considered as NOT COMPLETE, it is
+still in a work in progress state and MANY things will change till it's release. If you want
+to contribute in defining the specification you're very welcome. Contact me via [email](mailto:beganbajrami@gmail.com)
+
 ## Introduction:
 You may be wondering "why we need a guideline", and that's what this introduction is for.
 If you want to get straight to the point feel free to skip this section.
@@ -61,16 +66,78 @@ todo
 We already said that there isn't one that is actually "the leader", but it is obvious that someone
 will be recognised as it (probably you, if you're the founder of the community). What I mean by "no
 leader" is that there is no absolute power, no one should ever have such power on a place like this (think
-of it like a place with tens of thousends of people, it has the size of a city).
+of it like a place with tens of thousands of people, it has the size of a city).
 But someone should have the power to enforce rules and the ideology; these people are commonly called
-_administrators_ or _moderators_ or even _operators_ on the internet. Let's refer to this group of people
-as just admins.
+_administrators_, _moderators_ or even _operators_ on the internet. Let's refer to this group of people
+just as admins for convenience.
 
+Admins are those who are in charge of enforcing rules and ideology in the community.
+They can take actions like muting or even banning people from the community if needed.
+Also, they can make _official announcments_ when needed.
+Messages can be deleted if against the rules.
+
+But be careful, admins are not _all-powerfull_: in fact they can't take decisions on their own if
+a decision is not obvious.
+
+### What is an obvious decision?
+An obvious decision is a decision thats a direct consequence of the rules and the ideology of the community.
+Let's say for example that someone has posted NSFW content in a pubblic chatroom: it is obvious that the message
+will be deleted and the user who posted the message will be muted for some time. Lets say that after the mute period
+that user posted again some NSFW content on a public channel: here is another example of an _obvious decision_ since
+it is sufficent reading the rules to know what to do (the user will be permanently muted on the community).
+Lets say that someone posted a controversial topic in a public chatroom like something that is generally not agreed
+by the community but still not breaking the rules itself. What can happen here?
+Initially someone could say that the post is extremelly unagreeable and that contents like these should be banned
+from the community, while someone else may agree with the OP (original poster). The discussin goes on for hours, with people
+starting insulting eachother just for having different ideas on that topic.
+In a situation like this it is difficult to take action just by following the rules since people are getting angry but
+maybe it's the first time they do so and maybe they're overall some good folks on the community. Just by following the rules
+some people may get muted or even banned from the community for just an episode of controversy.
+Here is a situation of _not an obvious decision_. But that's just an example.
+Another example is that some rules of the community are generally not accepted by the pepole and they request a change
+to admins. In a situation like this it is MANDATORY to talk to the majority of admins.
+
+
+Since admins are not _all-powerfull_ they can't just decide to change a rule without asking permission to everyone else.
+So a system that lets admins vote is required. This way, every major decision is taken by everyone that has the power to do so.
+
+### why not letting all people of the community vote?
+Well, it is not denied to do so, but is more complicated. It is in fact prefered to have a system that lets everybody vote instead
+of creating an oligarchy, but there are some limitations: not everybody will ever participate and not everybody has full knowledge
+of the current state of the community. A more democratic way will let everyone that has at least some degree of activity on the
+community to vote. This way you're not only creating a more democratic environment but also stimulate people into interact more often
+with the community.
 
 ## Community Rules (and how to enforce them)
-## Power managment
-## Content Management
+This section is divided in *mandatory rules* and *suggested rules*. *Mandatory rules* are those that
+are required to be ELLE3 compliant.
 
+### Mandatory Rules
+1. Behaviour
+1.1. Treat everyone with respect
+
+1. Responsabilty (whether or not a member is considered responsible)
+
+1. Penalties
+
+### Suggested Rules
+1. Content (rules regarding media and shared materials)
+1. Language (what languages you're allowed to speak and where, for )
+
+
+
+## Power managment
+How to be an adminstrator
+## Content Management
+Where to share files and media content and what.
+## Basic Services
+
+1. sharing news that's on sutedents interests (like official announcemnts by the institute)
+1. a way to discuss everything that's on students interests
+1. chatrooms for every course
+
+# Criteria for being ELLE3 Compliant
+todo
 
 # Collaborators
 here goes everyone who collaborated into creating and improving the guidelines
