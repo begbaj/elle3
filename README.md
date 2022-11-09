@@ -146,7 +146,4 @@ todo
 # Collaborators
 here goes everyone who collaborated into creating and improving the guidelines
 
-# License
-The guideline is under the GPLv3 License
-
 # Thanks
