@@ -12,7 +12,7 @@ still in a work in progress state and MANY things will change till it's release.
 to contribute in defining the specification you're very welcome. Contact me via [email](mailto:beganbajrami@gmail.com)
 Also, pull request are "blindly" accepted only for **typo fixing**, while changes to the document are accepted only
 if previously discussed directly with me.
-Issues on github are also another good way for discussion, feel free too create one if emailing seems to formal or less
+Issues on github are also another good way for discussion, feel free to create one if emailing seems too formal or less
 efficent.
 
 ## Introduction:
