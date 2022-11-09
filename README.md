@@ -49,7 +49,8 @@ where you're allowed to (probably you have to ask the permission to do so).
 There isn't a specific way on how to reach people so here is a brief list of some tips on how to do it:
 
 1. Tell everyone you know about the existence of the community and ask them to do the same with their friends
-2. Ask some popular social page to share a link or a qr code to your community (if their good people, they will do it, otherwise don't insist on them and go for another solution)
+2. Ask some popular social page to share a link or a qr code to your community (if their good people, they will
+do it, otherwise don't insist on them and go for another solution)
 3. Print some flyers and spread them everywhere you can (with permission)
 4. If someone is already in the community, remind them to share the link every now and then but don't be annoying
 
@@ -57,6 +58,24 @@ There isn't a specific way on how to reach people so here is a brief list of som
 todo
 
 ## Who's in charge (who is the "leader")?
+We already said that there isn't one that is actually "the leader", but it is obvious that someone
+will be recognised as it (probably you, if you're the founder of the community). What I mean by "no
+leader" is that there is no absolute power, no one should ever have such power on a place like this (think
+of it like a place with tens of thousends of people, it has the size of a city).
+But someone should have the power to enforce rules and the ideology; these people are commonly called
+_administrators_ or _moderators_ or even _operators_ on the internet. Let's refer to this group of people
+as just admins.
+
+
+## Community Rules (and how to enforce them)
 ## Power managment
 ## Content Management
-## Community Rules (and how to enforce them)
+
+
+# Collaborators
+here goes everyone who collaborated into creating and improving the guidelines
+
+# License
+The guideline is under the GPLv3 License
+
+# Thanks
