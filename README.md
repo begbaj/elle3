@@ -10,6 +10,8 @@ but it requires a lot of time that I don't have right now.
 everything that's written in this specification is to be considered as NOT COMPLETE, it is
 still in a work in progress state and MANY things will change till it's release. If you want
 to contribute in defining the specification you're very welcome. Contact me via [email](mailto:beganbajrami@gmail.com)
+Also, pull request are "blindly" accepted only for **typo fixing**, while changes to the document are accepted only
+if previously discussed directly with me.
 
 ## Introduction:
 You may be wondering "why we need a guideline", and that's what this introduction is for.
