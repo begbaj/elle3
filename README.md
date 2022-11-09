@@ -3,10 +3,10 @@ ELLE3: Education Linking (todo: trovare un acronimo)
 Elle3 is a community guideline and discord bot for making university and school
 communities.
 
---------------------------------------------------------------------------------
-Idea:
-    elle e' un tool e linea guida di creazione e gestione di commuinty
-    universitarie e scolastiche.
+Current state:
+    elle3 is a guideline on how to manage university community with ease. It
+    IS NOT a bot not an application. It literally is a documentation.
+    For the discord bot check [this repo](https://github.com/begbaj/elle3-discord-bot)
 
 Guidelines:
     Struttura gerarchica e democratica:
